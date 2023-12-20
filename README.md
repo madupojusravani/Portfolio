@@ -6,13 +6,21 @@ Hello there! 👋 I'm Sravani, a passionate and dedicated full-stack developer, 
 
 I am equipped with skills in HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Express.js, Node.js, MongoDB, and SQLite. My focus is on creating visually appealing and responsive user interfaces, backed by a passion for dynamic web experiences. Eager to contribute and learn within a collaborative development team, I bring a fresh perspective and a commitment to delivering high-quality code.
 
-## Projects
+## Projects Details
+ 1.project demo URL:
+ https://portd4.z13.web.core.windows.net/
 
-### 1. Self-Drive Cars
+ 2.Demo Video URL:
+ https://youtu.be/fMEP4IccWXs?si=2AejC4nkTyk1WJol
+
+ 3.Github Repository URL:
+ 
+
+
 
 #### Azure Services Used:
 1.Azure Blob storage    
-2.Storage Account 
+2.Storage Account    
 3.Azure Backup service
 
 #### Problem Statement:
