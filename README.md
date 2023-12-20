@@ -8,12 +8,16 @@ I am equipped with skills in HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Expre
 
 ## Projects Details
  1.project demo URL:
+ 
  https://portd4.z13.web.core.windows.net/
 
  2.Demo Video URL:
+ 
  https://youtu.be/fMEP4IccWXs?si=2AejC4nkTyk1WJol
 
  3.Github Repository URL:
+
+ https://github.com/madupojusravani/Portfolio
  
 
 
@@ -24,12 +28,12 @@ I am equipped with skills in HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Expre
 3.Azure Backup service
 
 #### Problem Statement:
-## Problem Statement: 
+ 
 
 In the dynamic field of web development, showcasing skills and projects effectively is crucial for professional growth and collaboration. The existing avenues for presenting one's work often lack personalization and fail to capture the essence of a developer's journey and capabilities. To address this gap, the goal is to create a comprehensive and visually engaging portfolio website that not only highlights my proficiency in various technologies but also provides visitors with an immersive experience. The website aims to serve as a centralized hub for potential collaborators, employers, or curious developers, offering a seamless navigation experience, detailed project insights, and a glimpse into my background and skills. By addressing this need, the portfolio website becomes a powerful tool for establishing a strong online presence and fostering meaningful connections within the web development community.
 
 #### Project Description:
-## Project Description: Sravani's Portfolio Website
+ 
 
 Welcome to my portfolio website! This project is a representation of my skills, experiences, and passion for creating dynamic and visually appealing web applications. The primary objective is to provide a centralized platform for showcasing my proficiency as a full-stack developer and creating a personalized and engaging experience for visitors.
 
