@@ -102,7 +102,7 @@ Azure ChatBot:The Azure AI Language Chatbot is a cutting-edge conversational age
 
 ###Working Live Project Display:
 
-##Home page
+Home page
 ![Screenshot (7)](https://github.com/madupojusravani/Portfolio/assets/151829952/8a0f7e72-19b2-44cf-9573-1888d17c8618)
 
 ##Portfolio page
@@ -111,15 +111,24 @@ Azure ChatBot:The Azure AI Language Chatbot is a cutting-edge conversational age
 
 ![Screenshot (9)](https://github.com/madupojusravani/Portfolio/assets/151829952/1580c2bf-b576-41f8-bd6b-7fd064b6640a)
 
-##About page
+About page
 
 ![Screenshot (10)](https://github.com/madupojusravani/Portfolio/assets/151829952/8bca2683-10c7-46ad-9581-ea93582466e5)
 
-##Chatbot
+Chatbot
 
 ![Screenshot (11)](https://github.com/madupojusravani/Portfolio/assets/151829952/a7c58082-9056-44a3-bc3e-08f44fd334be)
 
 ![Screenshot (12)](https://github.com/madupojusravani/Portfolio/assets/151829952/56c30fc3-dd85-42df-b873-6a8e489961c2)
+
+Description Here Iam attaching the final working website's screenshot for the reference.
+
+
+Resource visualizer
+![Screenshot (13)](https://github.com/madupojusravani/Portfolio/assets/151829952/68b7f38e-1967-4db0-9074-d89afd8927d2)
+
+
+
 
 
 ## Final Project Statement:
