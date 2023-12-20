@@ -2,9 +2,6 @@
 
 Hello there! 👋 I'm Sravani, a passionate and dedicated full-stack developer, thrilled to welcome you to my portfolio.
 
-## About Me
-
-I am equipped with skills in HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Express.js, Node.js, MongoDB, and SQLite. My focus is on creating visually appealing and responsive user interfaces, backed by a passion for dynamic web experiences. Eager to contribute and learn within a collaborative development team, I bring a fresh perspective and a commitment to delivering high-quality code.
 
 ## Projects Details
  1.project demo URL:
@@ -38,6 +35,13 @@ In the dynamic field of web development, showcasing skills and projects effectiv
  
 
 Welcome to my portfolio website! This project is a representation of my skills, experiences, and passion for creating dynamic and visually appealing web applications. The primary objective is to provide a centralized platform for showcasing my proficiency as a full-stack developer and creating a personalized and engaging experience for visitors.
+
+## About Me
+
+I am equipped with skills in HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Express.js, Node.js, MongoDB, and SQLite. My focus is on creating visually appealing and responsive user interfaces, backed by a passion for dynamic web experiences. Eager to contribute and learn within a collaborative development team, I bring a fresh perspective and a commitment to delivering high-quality code.
+
+
+
 
 ### Key Features:
 
@@ -100,12 +104,14 @@ Azure ChatBot:The Azure AI Language Chatbot is a cutting-edge conversational age
 
 
 
-###Working Live Project Display:
+Working Live Project Display:
 
 Home page
+
+
 ![Screenshot (7)](https://github.com/madupojusravani/Portfolio/assets/151829952/8a0f7e72-19b2-44cf-9573-1888d17c8618)
 
-##Portfolio page
+Portfolio page
 
 ![Screenshot (8)](https://github.com/madupojusravani/Portfolio/assets/151829952/2a9f60bd-d396-4a6d-8307-aa80d8b5155f)
 
