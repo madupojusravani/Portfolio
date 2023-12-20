@@ -64,6 +64,8 @@ Azure ChatBot:The Azure AI Language Chatbot is a cutting-edge conversational age
 
 #### Screen Shots:
 
+![Screenshot (1)](https://github.com/madupojusravani/Portfolio/assets/151829952/7ce39bfb-0506-4170-b86b-0b7031bfdcbe)
+
 Azure Static Website Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 
 
