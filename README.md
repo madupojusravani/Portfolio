@@ -10,7 +10,7 @@ Hello there! 👋 I'm Sravani, a passionate and dedicated full-stack developer, 
 
  2.Demo Video URL:
  
- https://youtu.be/fMEP4IccWXs?si=2AejC4nkTyk1WJol
+https://youtu.be/uC2vvdpjrxk?si=VkXprLCb82IKf2Vx
 
  3.Github Repository URL:
 
