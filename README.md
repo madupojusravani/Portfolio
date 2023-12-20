@@ -63,7 +63,20 @@ Azure Blob Storage Azure Blob Storage:**Azure Blob Storage is Microsoft's scalab
 Azure ChatBot:The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability
 
 #### Screen Shots:
-[Include screenshots of the project, showcasing the UI and the results of the image analysis.]
+
+Azure Static Website Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
+
+
+Azure Backup Service Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment
+
+
+
+
+Azure ChatBot The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+
+
+
+###Working Live Project Display:
 
 
 
