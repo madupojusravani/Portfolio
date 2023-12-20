@@ -47,7 +47,7 @@ Welcome to my portfolio website! This project is a representation of my skills, 
 
 4. **Azure Integration:** Certain projects within the portfolio leverage Azure services, such as Azure Cognitive Services for image analysis. This integration showcases my ability to incorporate cutting-edge technologies into web applications.
 
-5. **About Me:** Get to know more about my background, experiences, and education. The "About Me" section offers a glimpse into my journey as a developer, providing context to the skills and projects presented on the site.
+5. **About Me:** Get to know more about my background. The "About Me" section offers a glimpse into my journey as a developer, providing context to the skills and projects presented on the site.
 
 6. **Live Project Display:** Experience the projects live by following the provided links. Interact with features, explore functionalities, and witness firsthand the results of my development efforts.
 
@@ -65,24 +65,14 @@ Azure ChatBot:The Azure AI Language Chatbot is a cutting-edge conversational age
 #### Screen Shots:
 [Include screenshots of the project, showcasing the UI and the results of the image analysis.]
 
-#### Working Live Project Display:
-Check out the live project [here](link-to-live-project).
 
-## Experience and Education
 
-[Include details about my experiences and education. This could be a brief overview of my professional journey and academic background.]
 
 ## Final Project Statement:
 
 Sravani's Portfolio Website is more than just a digital showcase; it is a curated space that reflects my journey, skills, and dedication as a full-stack developer. This project goes beyond presenting a collection of code—it is a dynamic representation of my passion for creating engaging and impactful web experiences.
 
-### Mission:
 
-With an array of carefully crafted projects, spanning from interactive applications to practical tools, this portfolio aims to demonstrate not only my technical prowess but also my commitment to delivering high-quality, user-centric solutions. The integration of Azure services showcases a forward-looking approach, embracing cutting-edge technologies to enhance the capabilities of web applications.
-
-### Vision:
-
-The vision behind this portfolio is to foster collaboration, spark curiosity, and create connections within the web development community. It is a testament to the art and science of coding, illustrating my versatility across the entire stack and my ability to adapt to emerging technologies.
 
 ### Invitation:
 
