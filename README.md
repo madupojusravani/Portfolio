@@ -90,13 +90,13 @@ Azure ChatBot:The Azure AI Language Chatbot is a cutting-edge conversational age
 
 
 
-##Azure Backup Service Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment
+Azure Backup Service Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment
 
 
 ![image](https://github.com/madupojusravani/Portfolio/assets/151829952/acdda5e8-5def-4f02-a8ce-a72f2c9ad53a)
 
 
-##Azure ChatBot The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+Azure ChatBot The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
 
 ![image](https://github.com/madupojusravani/Portfolio/assets/151829952/9cd94875-0d18-4c60-a4fd-d398ffd76655)
@@ -129,8 +129,8 @@ Chatbot
 
 Description Here Iam attaching the final working website's screenshot for the reference.
 
+Resource Visualizer
 
-Resource visualizer
 ![Screenshot (13)](https://github.com/madupojusravani/Portfolio/assets/151829952/68b7f38e-1967-4db0-9074-d89afd8927d2)
 
 
