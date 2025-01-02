@@ -1,6 +1,6 @@
 # Sravani's Portfolio
 
-Hello there! 👋 I'm Sravani, a passionate and dedicated full-stack developer, thrilled to welcome you to my portfolio.
+Hello there! 👋 I'm harikaS, a passionate and dedicated full-stack developer, thrilled to welcome you to my portfolio.
 
 
 # Projects Details
